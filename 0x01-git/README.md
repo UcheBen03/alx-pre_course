@@ -1,1 +1,1 @@
-Non-empty file for git. Let's see
+Non-empty file for git. Let's see.
